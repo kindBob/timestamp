@@ -1,0 +1,31 @@
+{
+    "name": "requestheaderparser",
+    "version": "1.0.0",
+    "description": "my first back-end project",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "nodejs"
+    ],
+    "author": "kindBob",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kindBob/request-header-parser.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kindBob/request-header-parser/issues"
+    },
+    "homepage": "https://github.com/kindBob/request-header-parser#readme"
+}
