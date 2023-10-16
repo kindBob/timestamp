@@ -22,10 +22,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kindBob/request-header-parser.git"
+        "url": "git+https://github.com/kindBob/timestamp.git"
     },
     "bugs": {
-        "url": "https://github.com/kindBob/request-header-parser/issues"
+        "url": "https://github.com/kindBob/timestamp/issues"
     },
-    "homepage": "https://github.com/kindBob/request-header-parser#readme"
+    "homepage": "https://github.com/kindBob/timestamp#readme"
 }
